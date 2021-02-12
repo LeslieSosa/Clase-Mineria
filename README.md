@@ -1,2 +1,3 @@
 # Clase-Mineria
-## Mapa mental 1
+## Fase I
+### Mapa Mental 1
