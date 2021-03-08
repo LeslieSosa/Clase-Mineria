@@ -6,6 +6,4 @@
 ### [Práctica de limpieza de datos](Ej_Limpieza_Equipo2.ipynb)
 ### [Primera Entrega del PIA]()
 ## Fase II
-### [Presentación de técnicas por equipo](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Presentaci%C3%B3n_Patrones%20Secuenciales_2%20.pdf)
-
-
+### [Presentación de técnicas por equipo](Presentación_Patrones Secuenciales_2 .pdf)
