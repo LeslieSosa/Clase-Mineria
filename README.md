@@ -7,6 +7,5 @@
 ### [Primera Entrega del PIA]()
 ## Fase II
 ### [Presentación de técnicas por equipo](Presentación_Patrones Secuenciales_2 .pdf)
-### [Mini examenes de técnicas por equipo]()
 
 
