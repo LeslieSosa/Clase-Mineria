@@ -6,7 +6,7 @@
 ### [Práctica de limpieza de datos](Ej_Limpieza_Equipo2.ipynb)
 ### [Primera Entrega del PIA]()
 ## Fase II
-### [Presentación de técnicas por equipo](Presentación_Patrones Secuenciales_2.pdf)
+### [Presentación de técnicas por equipo](Presentación_Patrones Secuenciales_2 .pdf)
 ### [Mini examenes de técnicas por equipo]()
 
 
