@@ -7,5 +7,5 @@
 ### [Primera Entrega del PIA](https://github.com/arelitolentino/Mineria-de-datos/blob/main/Avance1_PIA_Equipo2.ipynb)
 ## Fase II
 ### [Presentación de técnicas](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Presentaci%C3%B3n_Patrones%20Secuenciales_2%20.pdf)
-####-[Mini examen de técnicas](https://github.com/arelitolentino/Mineria-de-datos/blob/main/Calificaci%C3%B3n_Patrones-secuenciales_Equipo2.pdf)
-####-[Programa]()
+-[Mini examen de técnicas](https://github.com/arelitolentino/Mineria-de-datos/blob/main/Calificaci%C3%B3n_Patrones-secuenciales_Equipo2.pdf)
+-[Programa]()
