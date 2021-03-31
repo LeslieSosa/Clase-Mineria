@@ -1,6 +1,6 @@
 # Clase-Mineria
 ## Fase I
-### [Mapa Mental 1](MapaMental_1_1728777.pdf)
+### [Mapa Mental I](MapaMental_1_1728777.pdf)
 ### [Bases de Datos](Ej1_BasesDatos_Equipo_2.pdf)
 ### [Ejercicios Básicos de Python](Ej_Python_1728777.ipynb)
 ### [Práctica de limpieza de datos](Ej_Limpieza_Equipo2.ipynb)
@@ -9,3 +9,5 @@
 ### [Presentación de técnicas](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Presentaci%C3%B3n_Patrones%20Secuenciales_2%20.pdf)
 - [Mini examen de técnicas](https://github.com/arelitolentino/Mineria-de-datos/blob/main/Calificaci%C3%B3n_Patrones-secuenciales_Equipo2.pdf)
 - [Código](https://github.com/arlettemartinezmartinez/MineriaDeDatos/blob/main/GSP.py)
+### [Mapa Mental II](MapaMental_2_1728777.pdf)
+
