@@ -11,4 +11,5 @@
 - [Código](https://github.com/arlettemartinezmartinez/MineriaDeDatos/blob/main/GSP.py)
 ### [Mapa Mental II](MapaMental_2_1728777.pdf)
 ### [Práctica de Visualización](Visualización_Equipo2.ipynb)
+### [Segunda Entrega del PIA](AvancePIA_II_Grupo003_Equipo2.ipynb)
 
