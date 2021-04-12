@@ -10,4 +10,5 @@
 - [Mini examen de técnicas](https://github.com/arelitolentino/Mineria-de-datos/blob/main/Calificaci%C3%B3n_Patrones-secuenciales_Equipo2.pdf)
 - [Código](https://github.com/arlettemartinezmartinez/MineriaDeDatos/blob/main/GSP.py)
 ### [Mapa Mental II](MapaMental_2_1728777.pdf)
+### [Práctica de Visualización](Visualización_Equipo2.ipynb)
 
