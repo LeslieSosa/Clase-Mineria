@@ -12,4 +12,5 @@
 ### [Mapa Mental II](MapaMental_2_1728777.pdf)
 ### [Práctica de Visualización](Visualización_Equipo2.ipynb)
 ### [Segunda Entrega del PIA](AvancePIA_II_Grupo003_Equipo2.ipynb)
+### [Segunda Entrega del PIA (Version 2)](AvancePIA_II_Grupo003_Equipo2_Version2.ipynb)
 
