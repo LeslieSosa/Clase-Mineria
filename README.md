@@ -13,7 +13,7 @@
 ### [Práctica de Visualización](Visualización_Equipo2.ipynb)
 ### [Segunda Entrega del PIA](AvancePIA_II_Grupo003_Equipo2.ipynb)
 ### [Segunda Entrega del PIA (Version 2)](AvancePIA_II_Grupo003_Equipo2_Version2.ipynb)
-### [Segunda Entrega del PIA (Version 3)]()
+### [Segunda Entrega del PIA (Version 3)](AvancePIA_II_Grupo003_Equipo2_Version3.ipynb)
 ## Fase III
-### [PIA](Poster_EsperanzadeVida_Equipo2.pdf)
+### [PIA (Version 1)](Poster_EsperanzadeVida_Equipo2.pdf)
 
