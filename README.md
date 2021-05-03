@@ -15,5 +15,5 @@
 ### [Segunda Entrega del PIA (Version 2)](AvancePIA_II_Grupo003_Equipo2_Version2.ipynb)
 ### [Segunda Entrega del PIA (Version 3)](AvancePIA_II_Grupo003_Equipo2_Version3.ipynb)
 ## Fase III
-### [PIA (Version 1)](Poster_EsperanzadeVida_Equipo2.pdf)
+### [PIA](Poster_EsperanzadeVida_Equipo2.pdf)
 
